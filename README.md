@@ -1,4 +1,4 @@
-# Implementação de Sockets de Rede
+# Sockets de Rede
 Implementação em Python de *sockets* de rede baseada no paradigma cliente-servidor.
 
 ## Introdução
